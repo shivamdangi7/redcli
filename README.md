@@ -23,3 +23,9 @@ A cli version of Redshift-Control app.
 * press `j` / `k` to decrease or increase the screen temperature.
 * or you can press `-` / `+` to decrease or increase the screen temperature.
 * press `q` to quit the app.
+
+# Uninstallation guide
+```bash
+  cd redcli/
+  pip uninstall redcli
+```
